@@ -32,6 +32,7 @@
 
 <!-- list-start:n8n -->
 - [2026-04-29-n8n-github-til-auto-publish](n8n/2026-04-29-n8n-github-til-auto-publish.md)
+- [2026-04-29-n8n-discord-message-trigger-pattern](n8n/2026-04-29-n8n-discord-message-trigger-pattern.md)
 <!-- list-end:n8n -->
 
 </details>
@@ -57,15 +58,6 @@
 
 <!-- list-start:etc -->
 <!-- list-end:etc -->
-
-</details>
-
-<details id="cat-javascript">
-<summary>📂 javascript</summary>
-
-<!-- list-start:javascript -->
-- [2026-04-29-TIL-README-JavaScript-Auto-Update](javascript/2026-04-29-TIL-README-JavaScript-Auto-Update.md)
-<!-- list-end:javascript -->
 
 </details>
 
