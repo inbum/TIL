@@ -23,12 +23,6 @@
 <summary>🤖 ai — LLM, 프롬프트 엔지니어링, AI 도구 활용</summary>
 
 <!-- list-start:ai -->
-- [2026-04-29-LangGraph-RAG](ai/2026-04-29-LangGraph-RAG.md)
-- [2026-04-29-langchain-vectorstore-retriever-chroma](ai/2026-04-29-langchain-vectorstore-retriever-chroma.md)
-- [2026-04-29-LangChain-VectorStore-Retriever-Chroma](ai/2026-04-29-LangChain-VectorStore-Retriever-Chroma.md)
-- [2026-04-29-LangChain-LangGraph-LangFlow-LangSmith-비교](ai/2026-04-29-LangChain-LangGraph-LangFlow-LangSmith-비교.md)
-- [2026-04-29-LangGraph-활용사례](ai/2026-04-29-LangGraph-활용사례.md)
-- [2026-04-29-langgraph-활용사례](ai/2026-04-29-langgraph-활용사례.md)
 <!-- list-end:ai -->
 
 </details>
@@ -37,9 +31,6 @@
 <summary>🔀 n8n — 워크플로우 자동화, 파이프라인 구성</summary>
 
 <!-- list-start:n8n -->
-- [2026-04-29-n8n-github-til-auto-publish](n8n/2026-04-29-n8n-github-til-auto-publish.md)
-- [2026-04-29-n8n-discord-message-trigger-pattern](n8n/2026-04-29-n8n-discord-message-trigger-pattern.md)
-- [2026-04-29-n8n-nodes-discord-trigger-new-publish-unpublish-bug](n8n/2026-04-29-n8n-nodes-discord-trigger-new-publish-unpublish-bug.md)
 <!-- list-end:n8n -->
 
 </details>
