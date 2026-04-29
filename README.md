@@ -59,6 +59,7 @@
 
 <!-- list-start:etc -->
 - [2026-04-29-Replit-vibe-coding-app-development-and-deploy](etc/2026-04-29-Replit-vibe-coding-app-development-and-deploy.md)
+- [2026-04-29-vertical-slice-vs-clean-architecture-vibe-coding](etc/2026-04-29-vertical-slice-vs-clean-architecture-vibe-coding.md)
 <!-- list-end:etc -->
 
 </details>
