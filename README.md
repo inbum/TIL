@@ -19,44 +19,44 @@
 
 > 카테고리로 분류가 어려운 경우, 새 폴더를 생성하여 관리합니다.
 
-<details>
+<details id="cat-ai">
 <summary>🤖 ai — LLM, 프롬프트 엔지니어링, AI 도구 활용</summary>
 
-<!-- ai-list-start -->
-<!-- ai-list-end -->
+<!-- list-start:ai -->
+<!-- list-end:ai -->
 
 </details>
 
-<details>
+<details id="cat-n8n">
 <summary>🔀 n8n — 워크플로우 자동화, 파이프라인 구성</summary>
 
-<!-- n8n-list-start -->
+<!-- list-start:n8n -->
 - [2026-04-29-n8n-github-til-auto-publish](n8n/2026-04-29-n8n-github-til-auto-publish.md)
-<!-- n8n-list-end -->
+<!-- list-end:n8n -->
 
 </details>
 
-<details>
+<details id="cat-python">
 <summary>🐍 python — 파이썬 문법, 라이브러리, 스크립트</summary>
 
-<!-- python-list-start -->
-<!-- python-list-end -->
+<!-- list-start:python -->
+<!-- list-end:python -->
 
 </details>
 
-<details>
+<details id="cat-mobile">
 <summary>📱 mobile — iOS / Android 개발</summary>
 
-<!-- mobile-list-start -->
-<!-- mobile-list-end -->
+<!-- list-start:mobile -->
+<!-- list-end:mobile -->
 
 </details>
 
-<details>
+<details id="cat-etc">
 <summary>📦 etc — 기타 기술 주제</summary>
 
-<!-- etc-list-start -->
-<!-- etc-list-end -->
+<!-- list-start:etc -->
+<!-- list-end:etc -->
 
 </details>
 
@@ -111,5 +111,5 @@ GitHub Contents API — 파일 커밋 & 푸시
 
 ## 🔗 참고
 
-- [GitHub TIL 레포지토리](https://github.com/thoughtbot/til)
+- [GitHub TIL 레포지토리](https://github.com/inbum/TIL)
 - 작성자: [@inbum](https://github.com/inbum)
