@@ -39,6 +39,7 @@
 <!-- list-start:n8n -->
 - [2026-04-29-n8n-github-til-auto-publish](n8n/2026-04-29-n8n-github-til-auto-publish.md)
 - [2026-04-29-n8n-discord-message-trigger-pattern](n8n/2026-04-29-n8n-discord-message-trigger-pattern.md)
+- [2026-04-29-n8n-nodes-discord-trigger-new-publish-unpublish-bug](n8n/2026-04-29-n8n-nodes-discord-trigger-new-publish-unpublish-bug.md)
 <!-- list-end:n8n -->
 
 </details>
