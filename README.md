@@ -24,6 +24,7 @@
 
 <!-- list-start:ai -->
 - [2026-04-29-LangGraph-RAG](ai/2026-04-29-LangGraph-RAG.md)
+- [2026-04-29-langchain-vectorstore-retriever-chroma](ai/2026-04-29-langchain-vectorstore-retriever-chroma.md)
 <!-- list-end:ai -->
 
 </details>
