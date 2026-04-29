@@ -60,6 +60,15 @@
 
 </details>
 
+<details id="cat-javascript">
+<summary>📂 javascript</summary>
+
+<!-- list-start:javascript -->
+- [2026-04-29-TIL-README-JavaScript-Auto-Update](javascript/2026-04-29-TIL-README-JavaScript-Auto-Update.md)
+<!-- list-end:javascript -->
+
+</details>
+
 ---
 
 ## 📄 문서 구조
