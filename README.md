@@ -32,6 +32,7 @@
 <summary>🔀 n8n — 워크플로우 자동화, 파이프라인 구성</summary>
 
 <!-- list-start:n8n -->
+- [2026-04-29-n8n-discord-trigger-to-webhook](n8n/2026-04-29-n8n-discord-trigger-to-webhook.md)
 <!-- list-end:n8n -->
 
 </details>
