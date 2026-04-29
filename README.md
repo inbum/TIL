@@ -58,6 +58,7 @@
 <summary>📦 etc — 기타 기술 주제</summary>
 
 <!-- list-start:etc -->
+- [2026-04-29-Replit-vibe-coding-app-development-and-deploy](etc/2026-04-29-Replit-vibe-coding-app-development-and-deploy.md)
 <!-- list-end:etc -->
 
 </details>
