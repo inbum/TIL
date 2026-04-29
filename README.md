@@ -23,6 +23,7 @@
 <summary>🤖 ai — LLM, 프롬프트 엔지니어링, AI 도구 활용</summary>
 
 <!-- list-start:ai -->
+- [2026-04-29-LangChain-LangGraph-LangFlow-LangSmith-비교](ai/2026-04-29-LangChain-LangGraph-LangFlow-LangSmith-비교.md)
 <!-- list-end:ai -->
 
 </details>
