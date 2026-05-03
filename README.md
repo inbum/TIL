@@ -27,6 +27,7 @@
 - [2026-04-29-gpt-image-2-model-performance-and-usecases](ai/2026-04-29-gpt-image-2-model-performance-and-usecases.md)
 - [2026-04-30-andrej-karpathy-ai-coding-agent-task-instructions](ai/2026-04-30-andrej-karpathy-ai-coding-agent-task-instructions.md)
 - [2026-04-30-graphify-skill-install](ai/2026-04-30-graphify-skill-install.md)
+- [2026-05-03-claude-ppt-workflow](ai/2026-05-03-claude-ppt-workflow.md)
 <!-- list-end:ai -->
 
 </details>
