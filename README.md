@@ -68,6 +68,15 @@
 
 </details>
 
+<details id="cat-homelab">
+<summary>📂 homelab</summary>
+
+<!-- list-start:homelab -->
+- [2026-05-06-frigate-홈-CCTV-구축-장단점](homelab/2026-05-06-frigate-홈-CCTV-구축-장단점.md)
+<!-- list-end:homelab -->
+
+</details>
+
 ---
 
 ## 📄 문서 구조
