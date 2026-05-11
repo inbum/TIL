@@ -28,6 +28,7 @@
 - [2026-04-30-andrej-karpathy-ai-coding-agent-task-instructions](ai/2026-04-30-andrej-karpathy-ai-coding-agent-task-instructions.md)
 - [2026-04-30-graphify-skill-install](ai/2026-04-30-graphify-skill-install.md)
 - [2026-05-03-claude-ppt-workflow](ai/2026-05-03-claude-ppt-workflow.md)
+- [2026-05-11-ComfyUI-Node-Based-Generative-AI-GUI](ai/2026-05-11-ComfyUI-Node-Based-Generative-AI-GUI.md)
 <!-- list-end:ai -->
 
 </details>
