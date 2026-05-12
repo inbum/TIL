@@ -30,6 +30,7 @@
 - [2026-05-03-claude-ppt-workflow](ai/2026-05-03-claude-ppt-workflow.md)
 - [2026-05-11-ComfyUI-Node-Based-Generative-AI-GUI](ai/2026-05-11-ComfyUI-Node-Based-Generative-AI-GUI.md)
 - [2026-05-12-claude-md-skill-setup](ai/2026-05-12-claude-md-skill-setup.md)
+- [2026-05-12-claude-md-management-plugin](ai/2026-05-12-claude-md-management-plugin.md)
 <!-- list-end:ai -->
 
 </details>
