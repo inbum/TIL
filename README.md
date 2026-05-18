@@ -34,6 +34,7 @@
 - [2026-05-16-AI-도구-기업-도입-오너-관점](ai/2026-05-16-AI-도구-기업-도입-오너-관점.md)
 - [2026-05-18-OpenAI-Codex-Work-from-Anywhere](ai/2026-05-18-OpenAI-Codex-Work-from-Anywhere.md)
 - [2026-05-18-engineer-role-transformation-AI-driven-development](ai/2026-05-18-engineer-role-transformation-AI-driven-development.md)
+- [2026-05-18-harness-engineering-core-architecture-rules](ai/2026-05-18-harness-engineering-core-architecture-rules.md)
 <!-- list-end:ai -->
 
 </details>
