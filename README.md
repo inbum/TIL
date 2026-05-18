@@ -36,6 +36,7 @@
 - [2026-05-18-engineer-role-transformation-AI-driven-development](ai/2026-05-18-engineer-role-transformation-AI-driven-development.md)
 - [2026-05-18-harness-engineering-core-architecture-rules](ai/2026-05-18-harness-engineering-core-architecture-rules.md)
 - [2026-05-18-AI를-사용하지-않는-주요-이유](ai/2026-05-18-AI를-사용하지-않는-주요-이유.md)
+- [2026-05-18-AI-도입-경영인-관점](ai/2026-05-18-AI-도입-경영인-관점.md)
 <!-- list-end:ai -->
 
 </details>
