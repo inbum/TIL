@@ -32,6 +32,7 @@
 - [2026-05-12-claude-md-management-plugin](ai/2026-05-12-claude-md-management-plugin.md)
 - [2026-05-12-Karpathy-Inspired-Claude-Code-Guidelines](ai/2026-05-12-Karpathy-Inspired-Claude-Code-Guidelines.md)
 - [2026-05-16-AI-도구-기업-도입-오너-관점](ai/2026-05-16-AI-도구-기업-도입-오너-관점.md)
+- [2026-05-18-OpenAI-Codex-Work-from-Anywhere](ai/2026-05-18-OpenAI-Codex-Work-from-Anywhere.md)
 <!-- list-end:ai -->
 
 </details>
