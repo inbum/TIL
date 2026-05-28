@@ -76,6 +76,7 @@
 - [2026-04-29-vertical-slice-vs-clean-architecture-vibe-coding](etc/2026-04-29-vertical-slice-vs-clean-architecture-vibe-coding.md)
 - [2026-05-01-Tailscale-파일공유-서로다른-네트워크](etc/2026-05-01-Tailscale-파일공유-서로다른-네트워크.md)
 - [2026-05-20-데이터분석-자격증-종류와-활용](etc/2026-05-20-데이터분석-자격증-종류와-활용.md)
+- [2026-05-28-ESP32-vs-Arduino-IoT](etc/2026-05-28-ESP32-vs-Arduino-IoT.md)
 <!-- list-end:etc -->
 
 </details>
